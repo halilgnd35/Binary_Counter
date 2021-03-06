@@ -1,5 +1,5 @@
 # Binary_Counter
-Detaylı açıklamasını youtube kanalımdan izleyebilirsiniz.
+Avr Assembly ile atmega328p üzerinde ledler yardımıyla bir binary countera hayat verilmiştir.Detaylı açıklamasını youtube kanalımdan izleyebilirsiniz.
 Youtube kanalım->https://www.youtube.com/channel/UCrHQlXOK2GSIDMV41BJtEaQ
 ----------------------------------Kodlar----------------------------------
 ```javascript
