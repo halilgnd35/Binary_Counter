@@ -7,7 +7,7 @@ Youtube kanalım->https://www.youtube.com/channel/UCrHQlXOK2GSIDMV41BJtEaQ
 .ORG 0
 
 init:
-ldi r16, 0b11101111 ; 0b11101111 5.pin giriş diğer pinler çıkış pini
+ldi r16, 0b11101111 ; 0b11101111 5th pin is input others are output
 out DDRB, r16 
 ldi r28,0
 loop:
